@@ -1,0 +1,12 @@
+{
+  "name": "javascript-app",
+  "version": "",
+  "description": "My Javascript app",
+  "main": "app.py",
+  "author": "",
+  "license": "",
+  "scripts": {
+     "start": "node app.js"
+    },
+   "dependency": null
+}
