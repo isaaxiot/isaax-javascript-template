@@ -2,7 +2,7 @@
   "name": "javascript-app",
   "version": "",
   "description": "My Javascript app",
-  "main": "app.py",
+  "main": "app.js",
   "author": "",
   "license": "",
   "scripts": {
